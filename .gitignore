@@ -1,0 +1,13 @@
+prometheus/chunks_head
+Projects/monitoring/prometheus/wal
+Projects/monitoring/prometheus/lock
+Projects/monitoring/prometheus/queries.active
+
+/root/Projects/monitoring/grafana/alerting
+/root/Projects/monitoring/grafana/alerting/1
+/root/Projects/monitoring/grafana/alerting/1/__default__.tmpl
+/root/Projects/monitoring/grafana/csv
+/root/Projects/monitoring/grafana/pdf
+/root/Projects/monitoring/grafana/plugins
+/root/Projects/monitoring/grafana/png
+Projects/monitoring/grafana/grafana.db
